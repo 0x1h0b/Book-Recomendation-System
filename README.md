@@ -8,3 +8,7 @@ dataset link :- [https://www.kaggle.com/datasets/arashnic/book-recommendation-d
     - we will analyse the reading activity for those users , and recommend the books read by these readers
     - we are assuming if two users like the same thing they are likely to have other similar interests as well.
     - this method is call **Collaborative Filtering**.
+
+
+TO DO -
+-   work on UI /flask processing
